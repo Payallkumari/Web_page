@@ -760,7 +760,8 @@ footer span a:hover {
 
     .contact .tittle::after,
     .service .tittle::after, 
-    .skill .tittle::after {
+    .skill .tittle::after,
+    .team .tittle::after {
        font-size: 16px;
     }
 }
